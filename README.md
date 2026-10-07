@@ -60,42 +60,42 @@ My interest is not simply in using AI to generate code, but in understanding **h
 
 ## 🛠️ Tech Stack
 
+### Languages & Frameworks
+
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,dotnet,angular,postgres" alt="Core stack" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,dotnet,angular" alt="Languages and frameworks" /></a>
 </p>
+
+### Data
+
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,docker,git" alt="Additional experience" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres" alt="Data" /></a>
 </p>
 
-### Backend
+### DevOps
 
-- C#
-- .NET
-- Backend development
-- Web application architecture
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,git,linux,nginx" alt="DevOps" /></a>
+</p>
 
-### Frontend
+### Previously
 
-- Angular
-- Frontend development
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring" alt="Previous background" /></a>
+</p>
 
-### Databases
+<p align="center">C# · .NET · Angular · PostgreSQL · Docker · Git · Linux · Nginx · Java · Spring</p>
 
-- PostgreSQL
-- Relational database design
+### Tools & Platforms
 
-### Cloud & Development
-
-- SaaS applications
-- Cloud-based architectures
-- Docker
-- Git
-
-### Previous experience
-
-- Java
-- Spring
-- Spring Boot
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenCode-111111?style=for-the-badge" alt="OpenCode" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white" alt="Gitea" />
+  <img src="https://img.shields.io/badge/Proxmox_VE-E56910?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox VE" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
 My primary focus today is **.NET / C#, Angular and PostgreSQL**. Java/Spring is part of my previous professional background rather than my current main stack.
 
