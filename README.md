@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://github.com/danibauti94"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&center=true&width=600&lines=Software+Developer+-+.NET%2C+Angular%2C+PostgreSQL;Applied+AI+for+real+engineering;Self-hosted+homelab+explorer" alt="Typing intro" /></a>
+</p>
+
 # Daniel Bautista Coronilla
 
 ### Software Developer · .NET / C# · Angular · PostgreSQL · Applied AI
@@ -52,6 +56,13 @@ My interest is not simply in using AI to generate code, but in understanding **h
 ---
 
 ## Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,dotnet,angular,postgres" alt="Core stack" /></a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,docker,git" alt="Additional experience" /></a>
+</p>
 
 ### Backend
 
