@@ -1,22 +1,27 @@
-# Daniel Bautista Coronilla — Desarrollador de Software en Madrid
+# Daniel Bautista Coronilla — Software Developer (.NET · PostgreSQL · Angular) in Madrid
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-bautista-coronilla/)
 [![Madrid, Spain](https://img.shields.io/badge/Location-Madrid%2C%20Spain-blue?style=flat-square)](https://github.com/danibauti94)
 
 ## About
 
-Desarrollador de Software based in Madrid, building an innovative, scalable SaaS product delivered in the cloud.
-Working on digital products since 2018, focused on product value and continuous improvement.
+Software Developer based in Madrid, building scalable SaaS products delivered in the cloud.
+Focused on product value, continuous improvement, and clear demos that connect engineering with business.
 
-## Actualmente / Currently
+## Currently
 
-Desarrollador de Software @ Panel Sistemas Informáticos — intraemprendimiento SaaS (Kalena): roadmap, demos y pricing configurator.
-Enfocándome en IA aplicada al producto: IA generativa y soluciones cloud con impacto real en cliente.
+Software Developer @ Panel Sistemas Informaticos — intrapreneurship SaaS (Kalena): roadmap, demos, and pricing configurator plus commercial and market work.
+Exploring applied AI for real product impact, with a focus on generative AI.
+
+## Stack
+
+Core: .NET · PostgreSQL · Angular
+Secondary: Java · Spring · Docker
 
 ## Experience
 
-**Desarrollador de Software — Panel Sistemas Informáticos** · Apr 2018 — Present · Madrid
-Intraemprendimiento cloud: producto SaaS escalable, demos, roadmap y apoyo comercial.
+**Software Developer — Panel Sistemas Informaticos** · Apr 2018 - Present · Madrid, Spain
+Cloud SaaS intrapreneurship: scalable product development, roadmap, demos, and go-to-market support.
 
 ## Contact
 
