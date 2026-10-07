@@ -80,7 +80,6 @@ My interest is not simply in using AI to generate code, but in understanding **h
 | **AI development** | OpenCode, Codex CLI, Claude Code |
 | **Runtime & CLI** | Node.js, npm, Angular CLI, .NET SDK, PowerShell 7 |
 | **Terminal & remote** | MobaXterm, NoMachine |
-| **Local data** | SQL Server LocalDB |
 
 <p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,dotnet,angular,js,html,css,postgres" alt="Main stack" /></a>
