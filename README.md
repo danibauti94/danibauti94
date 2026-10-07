@@ -109,7 +109,16 @@ I prefer technology that solves a real problem over technology used simply becau
 
 ---
 
-## 🧪 Personal Projects & Home Lab
+## 🧪 Personal Projects
+
+- **AICoach** — Telegram bot with AI for personal training, powered by n8n and intervals.icu.
+- **Docly** — Workspace and technical documentation platform (TypeScript).
+- **Finanzas** — Personal investment dashboard (S&P 500, crypto, budget). AI-assisted development with tests, automatic deployment, versioning and Docker. Backend powered by n8n with automated tasks.
+- **Docs automation** — Dynamic documentation generated from live APIs via n8n workflows.
+
+---
+
+## 🧪 Home Lab
 
 <p align="center">
   <img src="https://img.shields.io/badge/Proxmox_VE-E56910?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox VE" />
