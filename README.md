@@ -66,7 +66,7 @@ My interest is not simply in using AI to generate code, but in understanding **h
 | **Frontend** | Angular, JavaScript, HTML, CSS |
 | **Data** | PostgreSQL, SQL Server |
 | **Automation & DevOps** | Docker, Git, CI/CD, Nginx, PowerShell |
-| **Platforms** | Linux, WSL |
+| **Platforms** | Linux, Windows, macOS, Android, iOS, WSL |
 | **Previously** | Java, Spring (long-ago professional background) |
 
 ### Tooling
