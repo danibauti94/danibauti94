@@ -64,7 +64,7 @@ My interest is not simply in using AI to generate code, but in understanding **h
 | --- | --- |
 | **Backend** | .NET / C#, ASP.NET, REST APIs |
 | **Frontend** | Angular, JavaScript, HTML, CSS |
-| **Data** | PostgreSQL, SQL Server (local development) |
+| **Data** | PostgreSQL, SQL Server |
 | **Automation & DevOps** | Docker, Git, CI/CD, Nginx, PowerShell |
 | **Platforms** | Linux, WSL |
 | **Previously** | Java, Spring (long-ago professional background) |
@@ -77,7 +77,7 @@ My interest is not simply in using AI to generate code, but in understanding **h
 | **Editor** | VS Code (Angular, REST Client, YAML, Remote SSH extensions) |
 | **Git GUI** | Sourcetree |
 | **Database client** | DBeaver |
-| **AI development** | OpenCode, Codex CLI |
+| **AI development** | OpenCode, Codex CLI, Claude Code |
 | **Runtime & CLI** | Node.js, npm, Angular CLI, .NET SDK, PowerShell 7 |
 | **Terminal & remote** | MobaXterm, NoMachine |
 | **Local data** | SQL Server LocalDB |
