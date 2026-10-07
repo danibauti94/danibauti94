@@ -6,6 +6,10 @@
 [![Madrid, Spain](https://img.shields.io/badge/Location-Madrid%2C%20Spain-blue?style=flat-square)](https://github.com/danibauti94)
 [![Focus: Applied AI](https://img.shields.io/badge/Focus-Applied%20AI-7B2CBF?style=flat-square)](https://github.com/danibauti94)
 
+[![.NET / C#](https://img.shields.io/badge/.NET%20%2F%20C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://github.com/danibauti94)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://github.com/danibauti94)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/danibauti94)
+
 I'm a Software Developer based in Madrid, Spain, focused on building web applications and SaaS products with a strong emphasis on maintainability, product value and real-world impact.
 
 My main professional stack is **.NET / C#, Angular and PostgreSQL**, with experience across backend, frontend and database development.
@@ -36,21 +40,9 @@ I enjoy working where **software engineering and product thinking meet**: unders
 
 ## 🤖 Applied AI & Developer Tools
 
-I'm particularly interested in the practical application of AI to software development.
+I'm particularly interested in the practical application of AI to software development: LLM-powered development, AI coding agents, agentic workflows, MCP (Model Context Protocol) and AI-assisted code generation.
 
-I'm exploring:
-
-- LLM-powered development
-- AI coding agents
-- Agentic software development workflows
-- MCP (Model Context Protocol)
-- AI-assisted code generation and refactoring
-- Developer tooling
-- Workflow automation with **n8n**
-- Self-hosted AI development environments
-- Integrating AI into existing engineering workflows
-
-My daily driver for agentic development is **OpenCode**, and I keep exploring the wider ecosystem of AI coding assistants. I also run **n8n** automation workflows both at work and in my home lab.
+My daily driver for agentic development is **OpenCode**, and I keep exploring the wider ecosystem of AI coding assistants, including **Claude Code** and **Codex CLI**. I also run **n8n** automation workflows both at work and in my home lab.
 
 My interest is not simply in using AI to generate code, but in understanding **how AI can change the way software is designed, developed, tested and maintained**.
 
@@ -105,22 +97,13 @@ My primary focus today is **.NET / C#, Angular and PostgreSQL**. Java/Spring is 
 
 ---
 
-## 🧭 Engineering Interests
+## 🔭 Focus & Interests
 
-I'm especially interested in:
+**How I work:** software architecture · clean and maintainable code · API design · full-stack development · developer experience · continuous improvement.
 
-- Software architecture
-- Clean and maintainable code
-- API design
-- Full-stack web development
-- SaaS products
-- Developer experience
-- Automation
-- AI-assisted development
-- AI agents
-- MCP
-- Self-hosted technology
-- Continuous improvement
+**What I like building:** SaaS applications · developer tools · APIs and integrations · automation platforms · AI-powered applications · internal tools · self-hosted services.
+
+**Currently exploring:** AI agents and agentic workflows · LLM application architecture · MCP · AI-assisted software engineering · cloud-native development.
 
 I prefer technology that solves a real problem over technology used simply because it is fashionable.
 
@@ -133,7 +116,7 @@ I prefer technology that solves a real problem over technology used simply becau
   <img src="https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white" alt="Gitea" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/CI%2FCD-4D4D4D4?style=for-the-badge" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/CI%2FCD-4D4D4D?style=for-the-badge" alt="CI/CD" />
 </p>
 
 Outside my professional work, I maintain a self-hosted home lab where I experiment with infrastructure, automation, containers and AI development tooling.
@@ -144,40 +127,6 @@ Outside my professional work, I maintain a self-hosted home lab where I experime
 - **Docs as code** — automation with n8n that generates documentation from live APIs.
 
 The home lab is primarily a **learning and experimentation environment**, while private infrastructure details and internal configuration stay out of public repositories.
-
----
-
-## 🏗️ What I Like Building
-
-I'm particularly interested in projects that combine:
-
-**Software + Product + Automation + AI**
-
-Examples include:
-
-- SaaS applications
-- Developer tools
-- AI-powered applications
-- Automation platforms
-- APIs and integrations
-- Internal tools
-- Self-hosted services
-- Developer productivity tools
-
----
-
-## 🔭 Currently Exploring
-
-I'm continuously exploring:
-
-- AI agents and agentic workflows
-- LLM application architecture
-- MCP
-- AI-assisted software engineering
-- Modern developer tooling
-- Self-hosted AI platforms
-- Cloud-native development
-- Connecting AI with real software projects
 
 ---
 
@@ -193,7 +142,9 @@ I'm continuously exploring:
 
 ## 🔗 Find Me
 
-- [LinkedIn](https://www.linkedin.com/in/daniel-bautista-coronilla/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-bautista-coronilla/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 ---
 
