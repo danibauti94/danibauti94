@@ -2,6 +2,10 @@
 
 ### Software Developer · .NET / C# · Angular · PostgreSQL · Applied AI
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-bautista-coronilla/)
+[![Madrid, Spain](https://img.shields.io/badge/Location-Madrid%2C%20Spain-blue?style=flat-square)](https://github.com/danibauti94)
+[![Focus: Applied AI](https://img.shields.io/badge/Focus-Applied%20AI-7B2CBF?style=flat-square)](https://github.com/danibauti94)
+
 I'm a Software Developer based in Madrid, Spain, focused on building web applications and SaaS products with a strong emphasis on maintainability, product value and real-world impact.
 
 My main professional stack is **.NET / C#, Angular and PostgreSQL**, with experience across backend, frontend and database development.
@@ -42,8 +46,11 @@ I'm exploring:
 - MCP (Model Context Protocol)
 - AI-assisted code generation and refactoring
 - Developer tooling
+- Workflow automation with **n8n**
 - Self-hosted AI development environments
 - Integrating AI into existing engineering workflows
+
+My daily driver for agentic development is **OpenCode**, and I keep exploring the wider ecosystem of AI coding assistants. I also run **n8n** automation workflows both at work and in my home lab.
 
 My daily driver for agentic development is **OpenCode**, and I keep exploring the wider ecosystem of AI coding assistants.
 
@@ -130,7 +137,7 @@ Outside my professional work, I maintain a self-hosted home lab where I experime
 - **Proxmox VE** — virtualization with VMs and containers for isolated lab environments.
 - **Gitea + CI/CD** — self-hosted Git with automation pipelines for builds and deploys, including container orchestration and deploys with Docker on Linux.
 - **Networking & reliability** — reverse proxy, DNS and firewall segmentation, plus monitoring and backups for a dependable lab.
-- **Docs as code** — automation that generates documentation from live APIs.
+- **Docs as code** — automation with n8n that generates documentation from live APIs.
 
 The home lab is primarily a **learning and experimentation environment**, while private infrastructure details and internal configuration stay out of public repositories.
 
