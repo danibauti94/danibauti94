@@ -6,11 +6,11 @@
 ## About
 
 Software Developer based in Madrid, building scalable SaaS products delivered in the cloud.
-Focused on product value, continuous improvement, and clear demos that connect engineering with business.
+Focused on product value, continuous improvement, and applied AI with real customer impact.
 
 ## Currently
 
-Software Developer @ Panel Sistemas Informaticos — intrapreneurship SaaS (Kalena): roadmap, demos, and pricing configurator plus commercial and market work.
+Software Developer @ Panel Sistemas Informaticos — intrapreneurship SaaS (Kalena): roadmap and scalable cloud product development.
 Exploring applied AI for real product impact, with a focus on generative AI.
 
 ## Stack
@@ -18,10 +18,15 @@ Exploring applied AI for real product impact, with a focus on generative AI.
 Core: .NET · PostgreSQL · Angular
 Secondary: Java · Spring · Docker
 
+## Home Lab
+
+Self-hosted home lab operated with containers and an infrastructure-as-code mindset: backups, monitoring, and update discipline included.
+Public artifacts only where sanitized: compose templates, backup and restore scripts, and redacted runbooks. No internal hosts, IPs, or secrets ever leave the lab.
+
 ## Experience
 
 **Software Developer — Panel Sistemas Informaticos** · Apr 2018 - Present · Madrid, Spain
-Cloud SaaS intrapreneurship: scalable product development, roadmap, demos, and go-to-market support.
+Cloud SaaS intrapreneurship: scalable product development and roadmap.
 
 ## Contact
 
