@@ -52,49 +52,54 @@ I'm exploring:
 
 My daily driver for agentic development is **OpenCode**, and I keep exploring the wider ecosystem of AI coding assistants. I also run **n8n** automation workflows both at work and in my home lab.
 
-My daily driver for agentic development is **OpenCode**, and I keep exploring the wider ecosystem of AI coding assistants.
-
 My interest is not simply in using AI to generate code, but in understanding **how AI can change the way software is designed, developed, tested and maintained**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
+### Stack by area
+
+| Area | Tools |
+| --- | --- |
+| **Backend** | .NET / C#, ASP.NET, REST APIs |
+| **Frontend** | Angular, JavaScript, HTML, CSS |
+| **Data** | PostgreSQL, SQL Server (local development) |
+| **Automation & DevOps** | Docker, Git, CI/CD, Nginx, PowerShell |
+| **Platforms** | Linux, WSL |
+| **Previously** | Java, Spring (long-ago professional background) |
+
+### Tooling
+
+| Purpose | Tool |
+| --- | --- |
+| **IDE** | Visual Studio Professional |
+| **Editor** | VS Code (Angular, REST Client, YAML, Remote SSH extensions) |
+| **Git GUI** | Sourcetree |
+| **Database client** | DBeaver |
+| **AI development** | OpenCode, Codex CLI |
+| **Runtime & CLI** | Node.js, npm, Angular CLI, .NET SDK, PowerShell 7 |
+| **Terminal & remote** | MobaXterm, NoMachine |
+| **Local data** | SQL Server LocalDB |
 
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,dotnet,angular" alt="Languages and frameworks" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,dotnet,angular,js,html,css,postgres" alt="Main stack" /></a>
 </p>
-
-### Data
 
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres" alt="Data" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,git,linux,nginx,powershell,nodejs,npm" alt="Platform and tooling" /></a>
 </p>
-
-### DevOps
-
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,git,linux,nginx" alt="DevOps" /></a>
-</p>
-
-### Previously
-
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring" alt="Previous background" /></a>
-</p>
-
-<p align="center">C# · .NET · Angular · PostgreSQL · Docker · Git · Linux · Nginx · Java · Spring</p>
-
-### Tools & Platforms
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenCode-111111?style=for-the-badge" alt="OpenCode" />
+  <img src="https://img.shields.io/badge/Codex_CLI-111111?style=for-the-badge&logo=openai&logoColor=white" alt="Codex CLI" />
+  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white" alt="Sourcetree" />
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
+  <img src="https://img.shields.io/badge/MobaXterm-111111?style=for-the-badge" alt="MobaXterm" />
+  <img src="https://img.shields.io/badge/NoMachine-111111?style=for-the-badge" alt="NoMachine" />
+  <img src="https://img.shields.io/badge/WSL-111111?style=for-the-badge" alt="WSL" />
+  <img src="https://img.shields.io/badge/SQL%20Server%20LocalDB-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server LocalDB" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white" alt="Gitea" />
-  <img src="https://img.shields.io/badge/Proxmox_VE-E56910?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox VE" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 My primary focus today is **.NET / C#, Angular and PostgreSQL**. Java/Spring is part of my previous professional background rather than my current main stack.
