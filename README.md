@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://github.com/danibauti94"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&center=true&width=600&lines=Software+Developer+-+.NET%2C+Angular%2C+PostgreSQL;Applied+AI+for+real+engineering;Self-hosted+homelab+explorer" alt="Typing intro" /></a>
-</p>
-
 # Daniel Bautista Coronilla
 
 ### Software Developer · .NET / C# · Angular · PostgreSQL · Applied AI
@@ -14,7 +10,7 @@ I'm also increasingly focused on **applied AI for software development**, explor
 
 ---
 
-## About me
+## 👤 About Me
 
 I've been working as a Software Developer at **Panel Sistemas Informáticos**, developing web applications and working on products delivered as cloud-based SaaS solutions.
 
@@ -34,7 +30,7 @@ I enjoy working where **software engineering and product thinking meet**: unders
 
 ---
 
-## Applied AI & Developer Tools
+## 🤖 Applied AI & Developer Tools
 
 I'm particularly interested in the practical application of AI to software development.
 
@@ -55,7 +51,7 @@ My interest is not simply in using AI to generate code, but in understanding **h
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,dotnet,angular,postgres" alt="Core stack" /></a>
@@ -98,7 +94,7 @@ My primary focus today is **.NET / C#, Angular and PostgreSQL**. Java/Spring is 
 
 ---
 
-## Engineering Interests
+## 🧭 Engineering Interests
 
 I'm especially interested in:
 
@@ -119,17 +115,28 @@ I prefer technology that solves a real problem over technology used simply becau
 
 ---
 
-## Personal Projects & Homelab
+## 🧪 Personal Projects & Home Lab
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Proxmox_VE-E56910?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox VE" />
+  <img src="https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white" alt="Gitea" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/CI%2FCD-4D4D4D4?style=for-the-badge" alt="CI/CD" />
+</p>
 
 Outside my professional work, I maintain a self-hosted home lab where I experiment with infrastructure, automation, containers and AI development tooling.
 
-It provides a practical environment to explore technologies that complement my professional software development work.
+- **Proxmox VE** — virtualization with VMs and containers for isolated lab environments.
+- **Gitea + CI/CD** — self-hosted Git with automation pipelines for builds and deploys, including container orchestration and deploys with Docker on Linux.
+- **Networking & reliability** — reverse proxy, DNS and firewall segmentation, plus monitoring and backups for a dependable lab.
+- **Docs as code** — automation that generates documentation from live APIs.
 
-The homelab is primarily a **learning and experimentation environment**, while private infrastructure details and internal configuration stay out of public repositories.
+The home lab is primarily a **learning and experimentation environment**, while private infrastructure details and internal configuration stay out of public repositories.
 
 ---
 
-## What I Like Building
+## 🏗️ What I Like Building
 
 I'm particularly interested in projects that combine:
 
@@ -148,7 +155,7 @@ Examples include:
 
 ---
 
-## Currently Exploring
+## 🔭 Currently Exploring
 
 I'm continuously exploring:
 
@@ -163,12 +170,22 @@ I'm continuously exploring:
 
 ---
 
-## Find Me
+## 💼 Experience
+
+**Software Developer** — Panel Sistemas Informáticos, Madrid, Spain · Apr 2018 — Present
+
+- Web application development for cloud-based SaaS products.
+- Product evolution from intrapreneurship initiative to real-customer use.
+- Backend, frontend and database work across the product lifecycle.
+
+---
+
+## 🔗 Find Me
 
 - [LinkedIn](https://www.linkedin.com/in/daniel-bautista-coronilla/)
 
 ---
 
-### Philosophy
+### 💡 Philosophy
 
 > Build useful software, understand the problem, keep learning, and use technology where it creates real value.
